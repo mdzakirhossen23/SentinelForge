@@ -1,0 +1,4 @@
+run 3e72c8f4d3aeb6c0 (fingerprint 3e72c8f4d3aeb6c0)
+  exact_match: 0.0000 ± 0.0000  (n=12)
+  perf: latency=61776ms (n=1 calls) | throughput=0.19 req/s
+  model: callable:run.<locals>.generator.<locals>.generate:b9e4abfd (not a local model -- no measurable size)

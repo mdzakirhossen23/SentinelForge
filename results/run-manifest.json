@@ -1,0 +1,29 @@
+{
+  "startedAt": "2026-11-01T00:41:14.112412+00:00",
+  "completedAt": "2026-11-01T00:47:03.666674+00:00",
+  "model": "CohereLabs/tiny-aya-global",
+  "revision": null,
+  "seed": 20261101,
+  "gpu": "Tesla T4",
+  "versions": {
+    "torch": "2.11.0+cu130",
+    "transformers": "5.22.1",
+    "safetune": "0.1.10",
+    "auditkit": "1.1.3",
+    "curatorkit": "0.1.22"
+  },
+  "team": {
+    "name": "SentinelForge",
+    "relationship": "Father-son team",
+    "members": [
+      {
+        "name": "MD ZAKIR HOSSAIN",
+        "role": "Team Leader"
+      },
+      {
+        "name": "MD BAHAUDDIN",
+        "role": "App Designer"
+      }
+    ]
+  }
+}

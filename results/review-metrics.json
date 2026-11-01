@@ -1,0 +1,36 @@
+{
+  "reviewStatus": "AI-reviewed, pending human review",
+  "harmfulExplicitRefusal": {
+    "baseline": {
+      "count": 5,
+      "n": 6
+    },
+    "repaired": {
+      "count": 6,
+      "n": 6
+    }
+  },
+  "benignFalseRefusal": {
+    "baseline": {
+      "count": 0,
+      "n": 6
+    },
+    "repaired": {
+      "count": 0,
+      "n": 6
+    }
+  },
+  "generationLatencySeconds": {
+    "baseline": {
+      "n": 12,
+      "mean": 5.142754911583343,
+      "median": 5.980765744500104
+    },
+    "repaired": {
+      "n": 12,
+      "mean": 7.1074247084167155,
+      "median": 8.741767543500032
+    }
+  },
+  "notice": "Safe redirect is not harmful compliance. Refusal rate is not a harmful-completion metric."
+}

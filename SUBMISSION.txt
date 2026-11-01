@@ -1,0 +1,43 @@
+SentinelForge — submission text prepared for review
+
+Track: AI Red Teaming, Safety and Alignment (Track 2)
+Team leader: MD ZAKIR HOSSAIN
+App designer: MD BAHAUDDIN
+Team relationship: Father–son team
+
+Demo: https://sentinelforge.baharsoftbd.com/
+Public code and experiment artifacts:
+https://huggingface.co/datasets/Zakirhossain123/SentinelForge-TinyAya-Safety-Pilot
+
+Description
+SentinelForge links an interactive evidence workbench to a real bilingual
+Tiny Aya Global refusal-intervention pilot. CuratorKIT cleans and deduplicates
+calibration examples, SafeTune calibrates an inference-time refusal direction,
+and AuditKIT invokes both baseline and intervention model paths on held-out
+English and Bengali requests. The app exposes recorded answers, per-answer
+review, evidence import and JSON export.
+
+Findings
+Across six harmful requests, explicit refusal rose from 5/6 to 6/6. Across six
+benign requests, false refusal remained 0/6. Mean generation latency increased
+from 5.143 to 7.107 seconds. Ratings are AI-assisted and await independent human
+review. The baseline non-refusal was already a safe anti-fraud warning, so no
+reduction in harmful completions is established.
+
+Limitations and provenance
+This is a 12-prompt pilot, not a general safety benchmark. Many answers are
+truncated at 128 generated tokens. No trained checkpoint or adapter is claimed:
+the intervention changes activations at inference. Model revision and steering
+tensor were not saved. The visual prototype predates the event; the real run,
+evidence integration and review interface were prepared on 1 November 2026.
+
+Before final submission
+Confirm organizer acceptance of pre-existing UI and of the publication format.
+Independently review the 24 recorded answers and preserve the reviewed report.
+Confirm both members' registration and required Discord participation.
+Supply a dedicated public source URL if the form specifically requires GitHub.
+Supply the required HF Article; publication currently requires a paid plan.
+Confirm the deadline's timezone directly with the organizer.
+Record and attach a demo video if requested or preferred.
+Review the final submission form and submit it yourself. This file is a draft;
+it is not evidence that registration or final submission occurred.
