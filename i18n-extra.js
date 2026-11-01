@@ -17,7 +17,7 @@ Object.assign(window.SF_I18N.phrases,{
 'Evidence links saved':['প্রমাণের লিংক সংরক্ষিত হয়েছে','تم حفظ روابط الأدلة','Bewijslinks opgeslagen','Nachweis-Links gespeichert'],
 'Use complete https:// links only.':['শুধু সম্পূর্ণ https:// লিংক ব্যবহার করুন।','استخدم روابط https:// كاملة فقط.','Gebruik alleen volledige https://-links.','Nur vollständige https://-Links verwenden.'],
 'Team registration':['দলের নিবন্ধন','تسجيل الفريق','Teamregistratie','Teamregistrierung'],
-'Both members registered before 5 Nov':['উভয় সদস্য ৫ নভেম্বরের আগে নিবন্ধিত','تسجيل العضوين قبل ٥ نوفمبر','Beide leden vóór 5 nov geregistreerd','Beide Mitglieder vor dem 5. Nov. registriert'],
+'Solo participant registered before 5 Nov':['একক অংশগ্রহণকারী ৫ নভেম্বরের আগে নিবন্ধিত','تسجيل المشارك الفردي قبل ٥ نوفمبر','Solo-deelnemer vóór 5 nov geregistreerd','Einzelteilnehmer vor dem 5. Nov. registriert'],
 'More than one real metric':['একাধিক বাস্তব মেট্রিক','أكثر من مقياس حقيقي','Meer dan één echte meetwaarde','Mehr als eine echte Kennzahl'],
 'Permitted Cohere model run':['অনুমোদিত Cohere মডেল রান','تشغيل نموذج Cohere مسموح','Toegestaan Cohere-model uitgevoerd','Zugelassenes Cohere-Modell ausgeführt'],
 'Dense open-weights model actually tested':['ঘন ওপেন-ওয়েটস মডেল বাস্তবে পরীক্ষিত','اختبار فعلي لنموذج كثيف مفتوح الأوزان','Dicht open-weightsmodel echt getest','Dichtes Open-Weights-Modell tatsächlich getestet'],

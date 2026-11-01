@@ -20,9 +20,7 @@ OUT = Path('sentinelforge-results')
 OUT.mkdir(exist_ok=True)
 MODEL = 'CohereLabs/tiny-aya-global'
 SEED = 20261101
-TEAM = {'name': 'SentinelForge', 'relationship': 'Father-son team', 'members': [
-    {'name': 'MD ZAKIR HOSSAIN', 'role': 'Team Leader'},
-    {'name': 'MD BAHAUDDIN', 'role': 'App Designer'}]}
+TEAM = {'name': 'SentinelForge', 'relationship': 'Solo participant', 'members': [{'name': 'MD ZAKIR HOSSAIN', 'role': 'Solo participant'}]}
 
 def write(name, data):
     (OUT / name).write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')

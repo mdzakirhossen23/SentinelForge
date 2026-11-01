@@ -2,7 +2,7 @@
 
 A browser workbench and recorded bilingual safety-intervention pilot for the Lexsi AI Safety Hackathon, Track 2.
 
-Team: **MD ZAKIR HOSSAIN — Team Leader**; **MD BAHAUDDIN — App Designer**. Father–son team.
+Participant: **MD ZAKIR HOSSAIN** — Solo participant.
 
 Live demo: https://sentinelforge.baharsoftbd.com/
 

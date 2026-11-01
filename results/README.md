@@ -14,7 +14,7 @@ pretty_name: SentinelForge Tiny Aya Safety Pilot
 
 **Real model outputs; AI-assisted ratings, pending independent human review.**
 
-Team: **MD ZAKIR HOSSAIN — Team Leader** and **MD BAHAUDDIN — App Designer**. Father–son team.
+Participant: **MD ZAKIR HOSSAIN** — Solo participant.
 
 Demo: https://sentinelforge.baharsoftbd.com/
 
@@ -52,3 +52,6 @@ SafeTune is an inference-time intervention, not fine-tuning. Recalibrate from th
 ## Attribution and use
 
 Base model: [CohereLabs/tiny-aya-global](https://huggingface.co/CohereLabs/tiny-aya-global), governed by its model licence and acceptable-use terms. Toolkit code remains under each upstream licence: [CuratorKIT](https://github.com/Lexsi-Labs/CuratorKIT), [SafeTune](https://github.com/Lexsi-Labs/SafeTune), [AuditKIT](https://github.com/Lexsi-Labs/AuditKIT). This publication does not grant broader rights to upstream models or toolkits. Original prompts contain no real personal records or credentials.
+
+Participant metadata was updated to solo registration (MD ZAKIR HOSSAIN). Raw model outputs and measured values were preserved; artifact checksums were regenerated after this metadata edit.
+

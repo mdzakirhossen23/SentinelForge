@@ -14,16 +14,13 @@
   },
   "team": {
     "name": "SentinelForge",
-    "relationship": "Father-son team",
+    "relationship": "Solo participant",
     "members": [
       {
         "name": "MD ZAKIR HOSSAIN",
-        "role": "Team Leader"
-      },
-      {
-        "name": "MD BAHAUDDIN",
-        "role": "App Designer"
+        "role": "Solo participant"
       }
     ]
-  }
+  },
+  "attributionNote": "Participant metadata updated to solo registration; original model outputs and measurements are unchanged."
 }
